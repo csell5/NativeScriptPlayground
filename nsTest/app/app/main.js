@@ -58,14 +58,20 @@ sessionsList.on("itemLoading", function(args) {
 var cars = new Array("ford", "chevy", "land rover");
 //sessionsList.items = cars;
 
-//sessionList.items = cars;
-
 /*
 sessionsList.bind({
     sourceProperty: "sessionItems",
     targetProperty: "items"
 }, model);
 */
+
+var resultsLable = new labelDef.Label();
+resultsLable.horizontalAlignment = layout.HorizontalAlignment.center;
+resultsLable.margin = new geometry.Thickness(20, 20, 20, 20);
+resultsLable.cssClass = "message";
+resultsLable.textWrap = true;
+
+resultsLable.text = "started";
 
 // Put all the elements in a StackPanel.
 
@@ -74,6 +80,7 @@ panel.addChild(titleLabel);
 panel.addChild(btn);
 panel.addChild(messageLabel);
 panel.addChild(sessionsList);
+panel.addChild(resultsLable);
 
 
 // Create and return the page.
