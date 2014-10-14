@@ -1,0 +1,9 @@
+{
+	"id": "org.nativescript.nsTest",
+	"tns-ios": {
+		"version": "0.3.0"
+	},
+	"tns-android": {
+		"version": "0.3.0"
+	}
+}
