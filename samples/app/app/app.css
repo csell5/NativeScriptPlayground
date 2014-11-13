@@ -1,0 +1,31 @@
+button 
+{ 
+    font-size: 10 
+}
+
+.title 
+{ 
+    font-size: 30
+}
+
+.message 
+{
+    font-size: 20;
+    color: #333333; 
+}
+
+.demoItemsPanel
+{
+    background-color:#cccccc;   
+}
+
+.listViewItemStyle
+{
+    font-size: 40;
+}
+
+.listViewItemStyleSmall
+{
+    font-size: 24;
+    margin:10;
+}

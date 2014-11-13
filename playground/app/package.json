@@ -1,0 +1,62 @@
+{
+  "name": "tns-template-hello-world",
+  "version": "0.3.1",
+  "description": "Hello World project template for NativeScript",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NativeScript/template-hello-world.git"
+  },
+  "keywords": [
+    "nativescript",
+    "tns",
+    "appbuilder",
+    "telerik",
+    "mobile"
+  ],
+  "author": {
+    "name": "Telerik"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/template-hello-world/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/NativeScript/template-hello-world",
+  "_id": "tns-template-hello-world@0.3.1",
+  "_shasum": "60a2c3bf4f63db402c291a7cdba8664887161b29",
+  "_resolved": "https://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-0.3.1.tgz",
+  "_from": "tns-template-hello-world@<0.4.0",
+  "scripts": {},
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "erjangavalji",
+    "email": "erjan.gavalji@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sdobrev",
+      "email": "stefan.dobrev@gmail.com"
+    },
+    {
+      "name": "tailsu",
+      "email": "tailsu@gmail.com"
+    },
+    {
+      "name": "fatme",
+      "email": "hfatme@gmail.com"
+    },
+    {
+      "name": "erjangavalji",
+      "email": "erjan.gavalji@gmail.com"
+    },
+    {
+      "name": "ligaz",
+      "email": "stefan.dobrev@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "60a2c3bf4f63db402c291a7cdba8664887161b29",
+    "tarball": "http://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-0.3.1.tgz"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
